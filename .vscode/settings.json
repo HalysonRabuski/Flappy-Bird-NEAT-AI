@@ -1,0 +1,11 @@
+{
+    "cSpell.words": [
+        "IMGS",
+        "blit",
+        "pygame"
+    ],
+    "python.linting.pylintArgs": [
+        "--extension-pkg-whitelist=extensionname",
+        "--unsafe-load-any-extension=y"
+    ],
+}
